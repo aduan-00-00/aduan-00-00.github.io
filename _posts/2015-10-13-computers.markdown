@@ -2,7 +2,6 @@
 layout:     post
 title:      "你好 大二"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2017-09-27 21:00:00
 author:     "ACsms"
 header-img: "img/post-bg-2017.jpg"
 catalog: true
