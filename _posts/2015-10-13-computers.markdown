@@ -1,41 +1,57 @@
 ---
 layout:     post
-title:      "电脑选购"
-subtitle:   " \"computer\""
-date:       2017-10-13
+title:      "大赛细则"
+subtitle:   " \"regulation\""
+date:       2018-5
 author:     "qinxueke"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 电脑选购
+    - 大赛细则
+    > 大赛原则
+>>（1）发现软件高端人才，培养软件创新理念，推动就业与创业
+当前，我国正在大力发展软件产业，但符合软件产业发展需要的人才还比较匮乏。因此，本届大赛将从团队组织、竞赛内容和大赛评审等各方面突出对IT技术、管理技能和市场推广等软件产业核心要素的考察，紧扣软件产业发展的脉搏，发现并培养符合软件产业发展的优秀人才，并推动企业与优秀人才的“联姻”。
+>>（2）多角色团队合作，融合企业模式
+针对软件产业的特点，模拟真实企业场景，以团队形式参赛。要求团队构成员中必须包含项目负责人（类似于项目经理），技术负责人（类似于技术经理或开发组长）和市场负责人（类似于市场经理或销售经理）。相应的团队成员必须承担起对应的角色职责，并在相应的提交方案、演示答辩等环节中加以体现。
+>>（3）来源现实需求，鼓励创新应用
+竞赛采用开放题目，提交方案需要反映现实，面向真实应用。参赛团队需综合考虑业务模型、技术方案、商业可行性等各种因素，提供完整解决方案，鼓励团队结合实际创新。
+>>（4）允许参考创新，但杜绝抄袭复制
+一旦发现完整抄袭复制将取消参赛资格；作品不允许涉及违法宣传，一旦发现取消参赛资格。
+>>（5）过程与结果并重，增强能力培养导向
+大赛评比采用过程与结果并重的方式。在评估最终结果方案的同时，也关注任务方案的产生过程，关注团队采用的思路与方法论以及在此过程中体现出来的综合素质、团队意识与解决问题的能力，体现出重人才、重素质的评价导向。评审方案如下表：
+|团队组织环节|	项目负责人|	技术负责人	|市场负责人|
+、方案内容	、商业方案中的组织、运作和管理体现及方案整体创意与创新|	技术方案水平
+可行性和先进性（如有作品重在考察作品功能与创新及实用性）|	商业可行性、
+市场前景分析预测、
+市场推广方案等。|
+评审考核环节|	对提交方案的内容评分（着重方案创意性、可行性、逻辑性及完成情况）
+对提交作品的评分（着重作品创新性、实用性、功能完善性）
+对商业运作的评分（着重产品市场前景分析与市场推广计划）
+针对演示答辩的表现评分（着重对方案综合评价及不同团队角色个体）|
+
+
+> 组织方式   
+>>（1）参赛对象
+具有我校正式学籍的全体在校本科生均可参赛。
+>>（2）参赛形式
+每队最多由4名学生组成，团队可以有1名指导老师，且“成品组”必须有一名指导老师。
+每名同学只可参加一组，不得重复参赛。
+
+> 竞赛题目与作品要求
+竞赛题目与作品要求：
+采用开放式的题目，作品需满足以下要求：
+【创意组】
+结合实际应用和行业发展趋势，就产品需求、应用背景、功能界面、创意创新等做出描述与刻画，策划书内容建议不少于8000字（影响评分）。其中应包括：可行性研究与计划、需求分析、软件整体构思、产品功能，技术解决方案、产品使用说明书、功能界面设计、创新创意观点、并包括简单的产品商业计划与市场分析及销售推广方案与构想规划等（可适当自由发挥增加报告书内容）。
+【成品组】
+>>（1）结合实际应用和行业发展趋势，就产品需求、应用背景、功能界面、创意创新等做出不少于2000字的产品报告书。其中应包括：可行性研究与计划、需求分析、软件整体构思、产品功能介绍、创新创意观点、其他产品介绍等（可适当自由发挥增加报告书内容）。
+>>（2）开发出产品，展现产品功能，提供技术解决方案与产品说明书（不少于2000字）；
+>>（3）产品商业计划与市场分析及销售推广方案与构想规划书（不少于1500字）；
+>>（4）在以上基础上搭建产品前台，做出产品界面，或其他实际作品，可用PPT、图像、视频等来辅助展示；
+>>（5）指导老师对参赛团队作品的指导意见书。（书面指导，字数不限）
+>>（6）其它补充说明书（不定）；
    
 ---
 
 
-
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%871.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%872.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%873.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%874.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%875.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%876.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%877.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%878.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%879.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8710.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8711.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8712.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8713.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8714.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8715.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8716.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8717.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8718.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8719.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8720.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8721.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8722.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8723.JPG" alt="">
-<img src="/img/in-post/post-computer/%E5%B9%BB%E7%81%AF%E7%89%8724.JPG" alt="">
 
 
 ### Thanks
