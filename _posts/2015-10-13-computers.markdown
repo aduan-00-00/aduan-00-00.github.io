@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "你好 大二"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "大赛细则"
+subtitle:   " \"regulation\""
 author:     "ACsms"
 header-img: "img/post-bg-2017.jpg"
 catalog: true
 tags:
-    - 生活
+    
 ---
 
 ### 大赛细则
