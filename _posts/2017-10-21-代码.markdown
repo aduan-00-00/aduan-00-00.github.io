@@ -6,6 +6,7 @@ author:     "seamus"
 header-img: "img/bbb.ico"
 tags:
     - 创新改变生活，心态决定命运
+      活动背景
 ---
 
 
