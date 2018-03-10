@@ -5,7 +5,7 @@ date:       2018-3-15 12:00:00
 author:     "seamus"
 header-img: "img/bbb.ico"
 tags:
-    - 
+    - 创新改变生活，心态决定命运
 ---
 
 
