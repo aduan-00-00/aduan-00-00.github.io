@@ -5,7 +5,8 @@ subtitle:   " \"regulation\""
 date:       2018-5
 author:     "qinxueke"
 header-img: "img/post-bg-js-version.jpg"
-
+tags: 
+---
     ### 大赛细则
     > 大赛原则
 >>（1）发现软件高端人才，培养软件创新理念，推动就业与创业
