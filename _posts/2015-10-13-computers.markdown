@@ -1,14 +1,18 @@
 ---
 layout:     post
-title:      "大赛细则"
-subtitle:   " \"regulation\""
-author:     "qinxueke"
-header-img: "img/post-bg-js-version.jpg"
-tags: 
+title:      "你好 大二"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2017-09-27 21:00:00
+author:     "ACsms"
+header-img: "img/post-bg-2017.jpg"
+catalog: true
+tags:
+    - 生活
 ---
-    ### 大赛细则
 
-    > 大赛原则
+### 大赛细则
+
+> 大赛原则
 
 >>（1）发现软件高端人才，培养软件创新理念，推动就业与创业
 当前，我国正在大力发展软件产业，但符合软件产业发展需要的人才还比较匮乏。因此，本届大赛将从团队组织、竞赛内容和大赛评审等各方面突出对IT技术、管理技能和市场推广等软件产业核心要素的考察，紧扣软件产业发展的脉搏，发现并培养符合软件产业发展的优秀人才，并推动企业与优秀人才的“联姻”。
