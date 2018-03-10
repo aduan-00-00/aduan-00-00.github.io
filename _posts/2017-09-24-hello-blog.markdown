@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "你好 大二"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "赛程安排"
+subtitle:   " \"schedule\""
 date:       2017-09-27 21:00:00
 author:     "ACsms"
 header-img: "img/post-bg-2017.jpg"
 catalog: true
 tags:
-    - 生活
+    
 ---
 
 > “Yeah It's on. ”
