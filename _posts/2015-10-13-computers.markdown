@@ -3,7 +3,7 @@ layout:     post
 title:      "大赛细则"
 subtitle:   " \"regulation\""
 author:     "ACsms"
-header-img: "img/qwee.ico"
+header-img: "img/zzz.ico"
 catalog: true
 tags:
     大赛细则
