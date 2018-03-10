@@ -6,7 +6,7 @@ author:     "ACsms"
 header-img: "img/qwee.ico"
 catalog: true
 tags:
-    
+    大赛细则
 ---
 
 ### 大赛细则
