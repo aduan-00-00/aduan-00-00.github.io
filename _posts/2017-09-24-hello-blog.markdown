@@ -4,7 +4,7 @@ title:      "赛程安排及介绍"
 subtitle:   " \"schedule\""
 date:       2017-09-27 21:00:00
 author:     "ACsms"
-header-img: "img/hhh.jpg
+header-img: "img/hhh.jpg"
 catalog: true
 tags:
     赛程安排
