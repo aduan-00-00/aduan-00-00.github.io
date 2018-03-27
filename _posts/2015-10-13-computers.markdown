@@ -54,10 +54,10 @@ tags:
 ---
 ### 报名方式
 （一）[**线上报名通道（扫描屏幕下方二维码）**](https://www.wjx.top/m/21843897.aspx)
-<img src="\img\erweima.ico">
+<img src="\img\123.ico">
 
 （二）**扫描屏幕下方二维码即可进入第五届“新态”软件大赛官方QQ群**
-<img src="\img\QQ.ico">
+<img src="\img\Qqun.ico">
 
 
 
