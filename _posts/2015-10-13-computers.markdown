@@ -52,7 +52,8 @@ tags:
 >>（6）其它补充说明书（不定）；
    
 ---
-
+<img src="\img\ddd.ico">
+[报名方式](https://www.wjx.top/m/21843897.aspx)
 
 
 
