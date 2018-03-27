@@ -52,7 +52,7 @@ tags:
 >>（6）其它补充说明书（不定）；
    
 ---
-[报名方式](https://www.wjx.top/m/21843897.aspx)
+[**线上报名通道（扫描屏幕下方二维码）**](https://www.wjx.top/m/21843897.aspx)
 <img src="\img\erweima.ico">
 
 
