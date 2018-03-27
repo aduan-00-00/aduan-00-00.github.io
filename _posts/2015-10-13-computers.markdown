@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      "大赛细则"
+title:      "大赛细则及报名通道"
 subtitle:   " \"regulation\""
 author:     "ACsms"
 header-img: "img/zzz.ico"
 catalog: true
 tags:
-    大赛细则
+    大赛细则及报名通道
 ---
 
-### 大赛细则
+### 大赛细则及报名通道
 
 > 大赛原则
 
@@ -52,8 +52,9 @@ tags:
 >>（6）其它补充说明书（不定）；
    
 ---
-<img src="\img\ddd.ico">
 [报名方式](https://www.wjx.top/m/21843897.aspx)
+<img src="\img\erweima.ico">
+
 
 
 
