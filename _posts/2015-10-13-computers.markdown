@@ -2,7 +2,7 @@
 layout:     post
 title:      "大赛细则及报名通道"
 subtitle:   " \"regulation\""
-author:     "ACsms"
+author:     "山西大学软件学院团委学生会科技部"
 header-img: "img/zzz.ico"
 catalog: true
 tags:
