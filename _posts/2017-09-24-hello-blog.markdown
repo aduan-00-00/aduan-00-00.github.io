@@ -7,7 +7,7 @@ author:     "山西大学软件学院团委学生会科技部"
 header-img: "img/hhh.jpg"
 catalog: true
 tags:
-    赛程安排
+    科技部
     
 ---
 
