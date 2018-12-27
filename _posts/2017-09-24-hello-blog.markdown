@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "山西大学软件学院团委学生会科技部"
+title:      "在线约课"
 subtitle:   " \"schedule\""
 date:       2018-09-01 21:00:00
 author:     "山西大学软件学院团委学生会科技部"
